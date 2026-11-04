@@ -38,7 +38,7 @@ Ein Shop verkauft jeden Tag zu mehreren Steuersätzen, an Kunden im Inland, in d
 
 ## Status: Beta
 
-Die Dateien sind nach den Schnittstellenbeschreibungen von BMD und RZL gebaut. Ein von einer Kanzlei bestätigter Import steht laut App noch aus. Prüfen Sie den ersten Import mit Ihrer Kanzlei und geben Sie dem Support Rückmeldung (`support+bmd@justarobot.online`).
+Die Dateien sind nach den Schnittstellenbeschreibungen von BMD und RZL gebaut. Ein von einer Kanzlei bestätigter Import steht laut App noch aus. Prüfen Sie den ersten Import mit Ihrer Kanzlei und geben Sie dem Support Rückmeldung (`support+bmd@justarobot.online`); als Dank gibt es einen Gratismonat.
 
 ## Über diese Dokumentation
 

@@ -4,7 +4,7 @@ Was BMD-Export nicht tut, damit Sie und Ihre Kanzlei es vorher wissen.
 
 ## Beta-Status des Imports
 
-Die BMD- und die RZL-Datei sind nach den Schnittstellenbeschreibungen gebaut und mit den Tests der App geprüft, aber nach Angabe der App noch nicht von einer Kanzlei produktiv importiert worden. Jede Kanzlei hat eigene Kontenpläne und Steuercodes. Prüfen Sie den ersten Import mit einem Monat und melden Sie das Ergebnis dem Support.
+Die BMD- und die RZL-Datei sind nach den Schnittstellenbeschreibungen gebaut und mit den Tests der App geprüft, aber nach Angabe der App noch nicht von einer Kanzlei produktiv importiert worden. Jede Kanzlei hat eigene Kontenpläne und Steuercodes. Prüfen Sie den ersten Import mit einem Monat und melden Sie das Ergebnis dem Support. Als Dank für die Rückmeldung zum ersten Import gibt es einen Gratismonat.
 
 ## Steuer
 
@@ -19,17 +19,13 @@ Die BMD- und die RZL-Datei sind nach den Schnittstellenbeschreibungen gebaut und
 - **Nur Shopify-Bestellungen.** Umsätze aus anderen Kanälen (Amazon, eBay, andere Kassen) bucht die Kanzlei getrennt. Kartenzahlungen am Shopify-POS laufen wie online. Die Kassenführung selbst (Kassabuch, Registrierkasse) bleibt bei Ihrem Kassensystem.
 - **Nur Euro.** Shops mit anderer Basiswährung werden nicht umgerechnet; der Onboarding-Check meldet es.
 - **Keine Belege** (Rechnungs-PDFs), **keine Debitoren je Kunde**, keine Fremdwährungsumrechnung.
-- **Zeitfenster der Bestelldaten:** Ohne die Shopify-Berechtigung für ältere Bestellungen liefert Shopify einer App nur die letzten 60 Tage. Die App weist darauf bei der OSS-Meldung und der Lieferschwelle hin. Für ältere Monate fragen Sie den Support, ob die Berechtigung für Ihren Shop vorliegt.
+- **Zeitfenster der Bestelldaten:** BMD-Export hat keine Shopify-Berechtigung für ältere Bestellungen; Shopify liefert der App nur die Bestellungen der letzten 60 Tage. Exportieren Sie jeden Monat bald nach Monatsende: Ein Monat, der weiter zurückliegt, wäre unvollständig. Bei der OSS-Meldung und der Lieferschwelle weist die App darauf hin.
 - **Eine Datei je Kalendermonat.** Der laufende Monat ist eine Vorschau und wird nach Monatsende neu exportiert.
 
 ## Zahlungen
 
 - **PayPal-Auszahlungen** werden nicht abgeglichen; die Gebühr je Bestellung steht im Export, den Rest gleicht die Kanzlei am Kontoauszug ab.
 - Auszahlungsabgleich nur mit **Shopify Payments**.
-
-## Steuerberater-Zugang
-
-Der Link funktioniert erst, wenn Berater- und Mandantennummer eingetragen sind, auch beim BMD-Format. Siehe [Steuerberater-Zugang](steuerberater-zugang.md).
 
 ## Sprache
 

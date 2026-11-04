@@ -18,7 +18,7 @@ Eine Seite „Buchungen von *Ihr Shop*“ mit einer Tabelle der Monate. Je Monat
 
 Auch die OSS-Quartale stehen dort zum Herunterladen (FinanzOnline-Datei und Umsatzreport).
 
-**Wichtig:** Die Download-Links sind erst aktiv, wenn in den Einstellungen **Beraternummer** und **Mandantennummer** eingetragen sind. Bis dahin steht dort „—“ und ein Hinweis, dass die Dateien folgen. Das gilt nach dem Stand der App auch beim BMD-Format, obwohl dessen Datei die Nummern nicht braucht. Die Felder sind beim BMD-Format ausgeblendet; tragen Sie sie dann vorübergehend über das Format *DATEV-Format — für RZL* ein (die Werte bleiben beim Zurückwechseln erhalten) oder fragen Sie den Support.
+**Beim DATEV-Format für RZL** sind die Download-Links erst aktiv, wenn in den Einstellungen **Beraternummer** und **Mandantennummer** eingetragen sind, denn sie stehen im Kopf der Datei. Bis dahin steht dort „—“ und ein Hinweis, dass die Dateien folgen. Beim BMD-Format sind die Links sofort aktiv; dessen Datei braucht die Nummern nicht.
 
 ## Monatliche Erinnerung
 

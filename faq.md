@@ -28,6 +28,8 @@
 
 **Kann ich einen Monat mehrmals exportieren?** Ja, die Datei wird jedes Mal neu erzeugt. Bereits verbuchte Monate nicht erneut importieren.
 
+**Kann ich ältere Monate nachholen?** Nur, soweit ihre Bestellungen höchstens 60 Tage alt sind: Shopify liefert BMD-Export nur diese. Exportieren Sie jeden Monat bald nach Monatsende. Siehe [Grenzen](grenzen.md).
+
 **Warum ist der laufende Monat „Vorschau“?** Er ist noch nicht abgeschlossen. Exportieren Sie ihn nach Monatsende erneut.
 
 ## Auszahlungen und OSS
