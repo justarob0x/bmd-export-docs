@@ -1,0 +1,19 @@
+# BMD-Export
+
+> BMD-Export ist eine Shopify-App für österreichische Shops. Sie schreibt aus den Bestellungen und Erstattungen eines Monats die Buchungsdatei für die Kanzlei: BMD-Buchungsimport (CSV) für BMD NTCS oder DATEV-Format für RZL. Umsatzsteuer 20/10/13 %, OSS, Ausfuhr, innergemeinschaftliche Lieferung, Einheitskontenrahmen (EKR). Diese Dokumentation (deutsch) ist für Händler und ihre Kanzleien und ihre Assistenten (Mensch oder KI).
+
+## Docs
+
+- [Überblick](README.md): was die App löst und ein Monat in sieben Schritten
+- [Einrichtung](einrichtung.md): Installation, Einstellungen, RZL-Angaben
+- [Kontenzuordnung](kontenzuordnung.md): EKR-Vorbelegung, Kontoprüfung
+- [Steuerfälle und Steuercodes](steuerfaelle.md): Inland, Ausfuhr, igL, OSS
+- [Erstattungen, Gutscheine, Versand und Rabatte](buchungsregeln.md)
+- [Dateiformate und Import](dateiformate.md): BMD NTCS und DATEV-Format für RZL
+- [Auszahlungen](auszahlungen.md): Shopify-Payments-Abgleich
+- [OSS und Lieferschwelle](oss-und-lieferschwelle.md): FinanzOnline-Datei, Warnung
+- [Steuerberater-Zugang](steuerberater-zugang.md): privater Link für die Kanzlei
+- [Onboarding-Check](onboarding-check.md): fünf Fragen und Bericht
+- [Abo, Daten und Support](abo-daten-support.md): 19 € je 30 Tage, 14 Tage kostenlos, Datenschutz
+- [Grenzen](grenzen.md): was die App nicht abbildet
+- [FAQ und Fehlersuche](faq.md)
