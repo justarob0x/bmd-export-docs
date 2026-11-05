@@ -28,4 +28,4 @@ Ohne OSS-Registrierung prüft die App **täglich**, wie viel Sie in diesem Jahr 
 - Jede Stufe wird pro Jahr einmal gemeldet. Abschalten: **Warnung zur EU-Lieferschwelle per E-Mail** (sichtbar nur ohne OSS).
 - „Stand ansehen“ in der Meldung führt zur OSS-Seite.
 
-**Grenze:** Ohne die Berechtigung für ältere Bestellungen liefert Shopify nur die letzten 60 Tage. Dann steht „mindestens“ vor dem Betrag, und die Dateien der OSS-Meldung sind gesperrt, solange Bestellungen im Quartal fehlen.
+**Grenze:** Solange die Berechtigung für ältere Bestellungen nicht bestätigt ist (Installation vor dem 5. November 2026), liefert Shopify nur die letzten 60 Tage. Dann steht „mindestens“ vor dem Betrag, und die Dateien der OSS-Meldung sind gesperrt, solange Bestellungen im Quartal fehlen.

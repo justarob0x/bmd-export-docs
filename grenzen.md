@@ -19,7 +19,7 @@ Die BMD- und die RZL-Datei sind nach den Schnittstellenbeschreibungen gebaut und
 - **Nur Shopify-Bestellungen.** Umsätze aus anderen Kanälen (Amazon, eBay, andere Kassen) bucht die Kanzlei getrennt. Kartenzahlungen am Shopify-POS laufen wie online. Die Kassenführung selbst (Kassabuch, Registrierkasse) bleibt bei Ihrem Kassensystem.
 - **Nur Euro.** Shops mit anderer Basiswährung werden nicht umgerechnet; der Onboarding-Check meldet es.
 - **Keine Belege** (Rechnungs-PDFs), **keine Debitoren je Kunde**, keine Fremdwährungsumrechnung.
-- **Zeitfenster der Bestelldaten:** BMD-Export hat keine Shopify-Berechtigung für ältere Bestellungen; Shopify liefert der App nur die Bestellungen der letzten 60 Tage. Exportieren Sie jeden Monat bald nach Monatsende: Ein Monat, der weiter zurückliegt, wäre unvollständig. Bei der OSS-Meldung und der Lieferschwelle weist die App darauf hin.
+- **Ältere Bestellungen:** BMD-Export liest auch Bestellungen, die älter als 60 Tage sind (Shopify-Berechtigung `read_all_orders`). Haben Sie die App vor dem 5. November 2026 installiert, bestätigen Sie diese Berechtigung einmal in Shopify; die Abfrage erscheint beim nächsten Öffnen der App. Bis dahin liefert Shopify nur die letzten 60 Tage, und die App weist bei der OSS-Meldung und der Lieferschwelle darauf hin.
 - **Eine Datei je Kalendermonat.** Der laufende Monat ist eine Vorschau und wird nach Monatsende neu exportiert.
 
 ## Zahlungen
